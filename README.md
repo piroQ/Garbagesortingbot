@@ -1,0 +1,3 @@
+# Garbagesortingbot
+ごみの分別をするbotです。
+githubのコミット pushコマンドの確認というコミットの名前には気にしないでください。
