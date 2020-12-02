@@ -1,8 +1,8 @@
 /**
- * multilabel-classification-example.js
+ * app.js
  * 
  * 使用例:
- * $ node multilabel-classification-example.js 
+ * $ node app.js 
  */
 
 // multi-label classification対応のマシンラーニングモジュール limdu をインポート
